@@ -1,0 +1,46 @@
+{
+  "name": "audible-feedback",
+  "version": "0.0.0",
+  "description": "Add sounds to your web app.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalex9/audible-feedback.git"
+  },
+  "keywords": [
+    "audible",
+    "feedback",
+    "audio",
+    "sound",
+    "webaudio",
+    "webaudioapi",
+    "web",
+    "audio"
+  ],
+  "author": "Alex Bainter <alexbainter+github@gmail.com> (http://alexbainter.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metalex9/audible-feedback/issues"
+  },
+  "homepage": "https://github.com/metalex9/audible-feedback#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.2.0",
+    "eslint-config-metalex9": "^0.2.0",
+    "karma": "^2.0.5",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^1.3.0",
+    "karma-rollup-preprocessor": "^6.0.0",
+    "mocha": "^5.2.0",
+    "prettier": "^1.14.0",
+    "puppeteer": "^1.6.1",
+    "rollup": "^0.63.4"
+  }
+}
