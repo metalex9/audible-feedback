@@ -2,7 +2,7 @@
   "name": "audible-feedback",
   "version": "0.0.0",
   "description": "Add sounds to your web app.",
-  "main": "index.js",
+  "main": "lib/audible-feedback.js",
   "directories": {
     "lib": "lib"
   },
